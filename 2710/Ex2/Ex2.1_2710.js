@@ -1,3 +1,3 @@
 function updateButton() {
-    document.getElementById("btn").textContent="Quốc Việt";
+    document.getElementById("btn").textContent="Haru";
 }
